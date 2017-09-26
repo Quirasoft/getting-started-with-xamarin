@@ -3,7 +3,7 @@
 Introduction to cross platform development with Xamarin.
 In this short introduction course, you will build your first Xamarin application using Visual Studio and develop an understanding of the fundamentals of developing Android, iOS and Windows Universal application. You will create an application that calculates your body mass index (BMI). This course assumes that you already have an understanding about programming.
 
-To course is available [at Quirasoft](https://quirasoft.nl/blog/programming/getting-started-with-xamarin "Quirasoft"). 
+To course is available [at Quirasoft](https://quirasoft.nl/blog/getting-started/getting-started-with-xamarin "Quirasoft"). 
 
 ### Prerequisites
 
